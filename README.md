@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rash023
 - 👀 I’m interested in dynamic programming
-- 🌱 I’m currently learning data structures and object oriented programming
+- 🌱 I’m currently learning operataing systems
 - 💞️ I’m looking to collaborate on problem solving skills
 - 📫 How to reach me instgram @rash_023
 
