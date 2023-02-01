@@ -2,7 +2,7 @@
 - 👀 I’m interested in dynamic programming
 - 🌱 I’m currently learning operataing systems
 - 💞️ I’m looking to collaborate on problem solving skills
-- 📫 How to reach me instgram @rash_023
+- 📫 How to reach me instagram @rash_023
 
 <!---
 Rash023/Rash023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
