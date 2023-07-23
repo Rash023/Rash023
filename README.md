@@ -22,7 +22,7 @@
 
 <div display="flex-col" > 
   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rash023&" alt="rash023" /></p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rash023&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)" alt="rash023" /></p>
+  <p><img align="left" src="![rash023's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rash023&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)" alt="rash023" /></p>
 </div>
 
 
