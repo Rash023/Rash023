@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rashid Mazhar</h1>
 
-- 🔭 I’m currently working on **Support vector machine**
+- 🔭 I’m currently working on **Backend-Web Development**
 
-- 🌱 I’m currently learning **MongoDb**
+- 🌱 I’m currently learning **Computer Networks**
 
 - 💬 Ask me about **Problem solving,Machine Learning & Web development**
 
