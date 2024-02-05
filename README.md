@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Backend-Web Development**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Flask**
 
 - 💬 Ask me about **Problem solving,Machine Learning & Web development**
 
