@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💻 Visit my Portfolio at [Click Me](https://rashid-mazhar.netlify.app/)
+- 💻 Visit my Portfolio at [Click Me](https://rashid-mazhar0507.netlify.app/)
 
 - 💬 Ask me about **ML,Backend Web Development,C++**
 
