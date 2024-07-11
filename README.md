@@ -8,11 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rash023&label=Profile%20views&color=0e75b6&style=flat" alt="Rash023" /> </p>
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **Go**
 
 - 💻 Visit my Portfolio at [Click Me](https://rashid-mazhar0507.netlify.app/)
-
-- 💬 Ask me about **ML,Backend Web Development,C++**
 
 - 📫 How to reach me **rashidmazhar0507@gmail.com**
 
